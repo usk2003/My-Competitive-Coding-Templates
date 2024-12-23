@@ -1,4 +1,4 @@
-# My-Competitive-Coding-Templates
+# My Competitive Coding Templates
 
 This repository contains templates that I use for my personal competitive programming practice. It includes templates for five popular programming languages: **C**, **C++**, **C#**, **Java**, and **Python**. These templates help me quickly get started with solving problems by providing basic utilities, such as I/O handling, modular arithmetic, and other common functions.
 
@@ -19,3 +19,12 @@ This repository includes templates for the following programming languages:
 - **Python**
 
 You can easily navigate to the respective language template in the repository and copy it to your own project or problem folder.
+
+## Competitive Coding Profiles
+
+- [LeetCode](https://leetcode.com/u/usk2003/)
+- [CodeChef](https://www.codechef.com/users/usk2003)
+- [Codeforces](https://codeforces.com/profile/usk2003)
+- [InterviewBit](https://www.interviewbit.com/profile/usk2003/)
+- [Smart Interviews](https://smartinterviews.in/profile/usk2003)
+- [HackerRank](https://www.hackerrank.com/profile/usk2003)
